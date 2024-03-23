@@ -16,7 +16,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/vaibhav yerkar" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav yerkar" height="30" width="45" />
-    </a>
+    </a>&nbsp;
     <a href="https://www.hackerrank.com/vaibhavyerkar201" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavyerkar201" height="30" width="45" />
     </a>&nbsp;
@@ -40,7 +40,9 @@
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
     </a> &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+        <div style="background-color:#fff;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
+        </div>
     </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
