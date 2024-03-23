@@ -12,9 +12,6 @@
     </a> 
 </p>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/vaibhav yerkar" target="blank">
@@ -82,6 +79,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
     </a> &nbsp;
 </p>
+
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vaibhav-yerkar" /></p>
 
