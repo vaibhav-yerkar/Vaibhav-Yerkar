@@ -5,9 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=vaibhav-yerkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-yerkar" /> 
 </p>
 
-<p>
-    <h2 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></h2>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
