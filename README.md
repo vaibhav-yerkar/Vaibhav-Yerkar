@@ -40,9 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> 
     </a> &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <div style="background-color:#fff;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-        </div>
     </a> &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
