@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Yerkar</h1>
 <h3 align="center">A passionate developer...</h3>
 
-
-
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=vaibhav-yerkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-yerkar" /> 
+</p>
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
