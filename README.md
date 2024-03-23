@@ -85,7 +85,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="vaibhav-yerkar" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vaibhav-yerkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="vaibhav-yerkar" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-Yerkar&theme=dark&hide_border=false" alt="vaibhav-yerkar" /></p>
