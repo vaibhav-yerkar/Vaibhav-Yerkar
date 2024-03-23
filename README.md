@@ -6,7 +6,7 @@
 </p>
 
 <p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+    <h2 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></h2>
 </p>
 
 <p align="left"> 
