@@ -11,7 +11,7 @@
 
 About me...  
 ```javascript
-const amrit = {
+const vaibhav = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
   frontend: [React, Svelte, tailwind, bootstrap],
