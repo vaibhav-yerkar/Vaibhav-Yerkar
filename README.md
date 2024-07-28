@@ -10,10 +10,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/vaibhav yerkar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav yerkar" height="30" width="45" />
+        <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhav yerkar" height="30" width="45" />
     </a>&nbsp;
     <a href="https://www.hackerrank.com/vaibhavyerkar201" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhavyerkar201" height="30" width="45" />
+        <img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="vaibhavyerkar201" height="30" width="45" />
+    </a>&nbsp;
+    <a href="https://leetcode.com/u/vaibhavyerkar2017" target="blank">
+        <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaibhavyerkar2017" height="30" width="45" />
     </a>&nbsp;
 </p>
 
