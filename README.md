@@ -17,7 +17,7 @@ const vaibhav = {
   frontend: [React, Svelte, tailwind, bootstrap],
   backend: [nodejs, express, nestjs],
   databases : [MySQL, MonogoDB, Postgres],
-  tools: [Git, Github, VSCode],
+  tools: [Git, Github, VSCode, Bash, Figma],
   cs: [OOPS, DBMS, Operating System, Computer Networks]
 }
 ```
