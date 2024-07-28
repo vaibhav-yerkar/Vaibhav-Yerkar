@@ -24,3 +24,6 @@ const vaibhav = {
   cs: [OOPS, DBMS, Operating System, Computer Networks]
 }
 ```
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
