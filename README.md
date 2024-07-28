@@ -12,8 +12,8 @@
     <a href="https://linkedin.com/in/vaibhav yerkar" target="blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhav yerkar" height="30" width="45" />
     </a>&nbsp;
-    <a href="https://www.hackerrank.com/vaibhavyerkar201" target="blank">
-        <img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="vaibhavyerkar201" height="45" width="70" style="scale:200%;"/>
+    <a href="https://www.hackerrank.com/vaibhavyerkar201" target="blank" style="transform:scale(200);">
+        <img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="vaibhavyerkar201" height="45" width="70"/>
     </a>&nbsp;
     <a href="https://leetcode.com/u/vaibhavyerkar2017" target="blank">
         <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaibhavyerkar2017" height="30" width="45" />
