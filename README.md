@@ -6,8 +6,20 @@
 <a href="https://www.linkedin.com/in/vaibhav-yerkar/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhav-yerkar" /></a>
 <a href="https://www.hackerrank.com/vaibhavyerkar201" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vaibhavyerkar201" /></a>
 <a href="https://leetcode.com/vaibhavyerkar2017" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaibhavyerkar2017" /></a>
-
 </p>
+
+About me...  
+```javascript
+const vaibhav = {
+  pronouns: "he" | "him",
+  code: [Python, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
+  frontend: [React, Svelte, tailwind, bootstrap],
+  backend: [nodejs, express, nestjs],
+  databases : [MySQL, MonogoDB, Postgres],
+  tools: [Git, Github, VSCode, Bash, Figma],
+  cs: [OOPS, DBMS, Operating System, Computer Networks]
+}
+```
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -47,19 +59,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-About me...  
-```javascript
-const vaibhav = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
-  frontend: [React, Svelte, tailwind, bootstrap],
-  backend: [nodejs, express, nestjs],
-  databases : [MySQL, MonogoDB, Postgres],
-  tools: [Git, Github, VSCode, Bash, Figma],
-  cs: [OOPS, DBMS, Operating System, Computer Networks]
-}
-```
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
