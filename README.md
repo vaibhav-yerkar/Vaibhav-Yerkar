@@ -15,7 +15,7 @@ const vaibhav = {
   code: [Python, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
   frontend: [React, Svelte, tailwind, bootstrap],
   backend: [nodejs, express, nestjs],
-  databases : [MySQL, MonogoDB, Postgres],
+  databases : [MySQL, MongoDB, Postgres],
   tools: [Git, Github, VSCode, Bash, Figma],
   cs: [OOPS, DBMS, Operating System, Computer Networks]
 }
