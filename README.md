@@ -1,4 +1,4 @@
-# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Vaibhav Yerkar
+# Hi there, I'm Vaibhav Yerkar
 
 ### Connect with me:
 
@@ -12,7 +12,7 @@ About me...
 ```javascript
 const vaibhav = {
   pronouns: "he" | "him",
-  code: [Python, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
+  code: [Python, C++, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
   frontend: [React, Svelte, tailwind, bootstrap],
   backend: [nodejs, express, nestjs],
   databases : [MySQL, MongoDB, Postgres],
