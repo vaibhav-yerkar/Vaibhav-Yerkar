@@ -11,7 +11,6 @@
 About me...  
 ```javascript
 const vaibhav = {
-  pronouns: "he" | "him",
   code: [Python, C++, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
   frontend: [React, Svelte, tailwind, bootstrap],
   backend: [nodejs, express, nestjs],
