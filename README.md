@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav-yerkar/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhav-yerkar" /></a>
 <a href="https://x.com/Vaibhav_Yerkar" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Vaibhav_Yerkar" /></a>
+<a href="https://www.instagram.com/_.vaibhav.y_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Vaibhav_Yerkar" /></a>
 <a href="https://leetcode.com/vaibhavyerkar2017" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaibhavyerkar2017" /></a>
 </p>
 
