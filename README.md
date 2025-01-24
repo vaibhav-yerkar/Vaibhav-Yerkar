@@ -9,18 +9,6 @@
 <a href="https://www.instagram.com/_.vaibhav.y_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Vaibhav_Yerkar" /></a>
 </p>
 
-About me...  
-```javascript
-const vaibhav = {
-  code: [Python, C++, Javascript, Typescript, HTML, CSS, SQL, Data Structures & Algorithm, Problem Solving],
-  frontend: [React, Svelte, tailwind, bootstrap],
-  backend: [nodejs, express, nestjs],
-  databases : [MySQL, MongoDB, Postgres],
-  tools: [Git, Github, VSCode, Bash, Figma],
-  cs: [OOPS, DBMS, Operating System, Computer Networks]
-}
-```
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -36,7 +24,6 @@ const vaibhav = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
