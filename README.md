@@ -26,10 +26,11 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr />
 <div align="center">
-  
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   [![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt?si=3d47738265a54d4f)
 </div>
+<hr />
 
