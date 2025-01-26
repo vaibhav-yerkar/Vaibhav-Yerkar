@@ -26,10 +26,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr />
 <div>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  &nbsp;&nbsp;[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
+  &nbsp;[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
+  <br />
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
+  &nbsp;[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
 </div>
 
