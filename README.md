@@ -13,7 +13,7 @@
 <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-  &nbsp;&nbsp;[![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=77f29c)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=e0b4cf2b763c471d)
+  &nbsp;&nbsp;[![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=0d1117&border_color=262626)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=e0b4cf2b763c471d)
 </div>
 <hr />
 
