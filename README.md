@@ -9,6 +9,14 @@
 <a href="https://www.instagram.com/_.vaibhav.y_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Vaibhav_Yerkar" /></a>
 </p>
 
+<hr />
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  &nbsp;&nbsp;[![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=e0b4cf2b763c471d)
+</div>
+<hr />
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&logoWidth=20) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -25,12 +33,3 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-
-<hr />
-<div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  &nbsp;&nbsp;[![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=e0b4cf2b763c471d)
-</div>
-<hr />
-
