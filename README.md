@@ -30,7 +30,7 @@
 <hr />
 <div>
   
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=361a1a&border_color=e36868)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt?si=3d47738265a54d4f)
+  [![Spotify](https://vaibhav-yerkar.vercel.app/api/spotify?background_color=361a1a&border_color=e36868)](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=d54cf587dd4d4b49)
+  [![Spotify](https://vaibhav-yerkar.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt?si=3d47738265a54d4f)
 </div>
 
