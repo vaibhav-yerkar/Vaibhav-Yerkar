@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-<p align="center">
+<p align="justify">
 <a href="https://www.linkedin.com/in/vaibhav-yerkar/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhav-yerkar" /></a>
 <a href="https://x.com/Vaibhav_Yerkar" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Vaibhav_Yerkar" /></a>
 <a href="https://leetcode.com/vaibhavyerkar2017" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="vaibhavyerkar2017" /></a>
@@ -27,10 +27,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 <hr />
-<div align="center">
+<div align="justify">
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-yerkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  &nbsp;&nbsp;[![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt?si=3d47738265a54d4f)
+  [![Spotify](https://spotify-banner-alpha.vercel.app/api/spotify?background_color=1a3622&border_color=77f29c)](https://open.spotify.com/track/1j2M5ekufbxpzGYzuorgKt?si=3d47738265a54d4f)
 </div>
 <hr />
 
