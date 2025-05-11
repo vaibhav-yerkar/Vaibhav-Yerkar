@@ -11,7 +11,7 @@
 
 <hr />
 <p>
-  You don' prolly care 'bout my music taste or tech stats, tho as the saying goes <b>"Behold the field in which I grow my fcks, lay thin eyes upon it and you shall see that it is barren"</b>
+  You don' prolly care 'bout my music taste or tech stats, tho as the saying goes <br /><b>"Behold the field in which I grow my fcks, lay thin eyes upon it and you shall see that it is barren"</b>
 </p>
 <div align="center">
 
